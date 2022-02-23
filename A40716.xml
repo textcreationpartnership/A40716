@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of keeping our parish-churches argued from the sin and danger of the schisms in the Church of Corinth and of the present separations : in a sermon before the honourable judges, at the last assizes, held at Exeter / by Francis Fullwood.</title>
+            <author>Fullwood, Francis, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40716</idno>
+            <idno type="STC">Wing F2510</idno>
+            <idno type="STC">ESTC R35475</idno>
+            <idno type="EEBO-CITATION">15342602</idno>
+            <idno type="OCLC">ocm 15342602</idno>
+            <idno type="VID">103429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of keeping our parish-churches argued from the sin and danger of the schisms in the Church of Corinth and of the present separations : in a sermon before the honourable judges, at the last assizes, held at Exeter / by Francis Fullwood.</title>
+                  <author>Fullwood, Francis, d. 1693.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.T. and R.H. for James Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisements: p. 28.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Schism.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103429:1" rendition="simple:additions"/>
+            <p>THE NECESSITY Of Keeping our Pariſh-Churches, ARGUED From the <hi>Sin</hi> and <hi>Danger</hi> of the <hi>Schiſms</hi> in the Church of <hi>Corinth,</hi> and of the <hi>preſent Separations.</hi>
+            </p>
+            <p>IN A SERMON BEFORE THE HONOURABLE JUDGES, At the laſt <hi>Aſſizes,</hi> held at <hi>EXETER.</hi>
+            </p>
+            <p>By <hi>Francis Fullwood. D. D.</hi>
+            </p>
+            <q>
+               <hi>Nunc quoque non ſum ſcribere auſus vobis, de</hi> imminentibus <hi>Eccleſiae</hi> periculis, <hi>&amp; gravi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mate <hi>quod timemus, ac</hi> plurimis <hi>quae ſuſtine<g ref="char:EOLhyphen"/>mus</hi> incommodis. <bibl>
+                  <hi>S. Bernard. in Ep.</hi> 118.</bibl>
+            </q>
+            <q>
+               <hi>Cùm ob</hi> rem levem <hi>Schiſma fit, manifeſta</hi> odij <hi>nota eſt.</hi> 
+               <bibl>
+                  <hi>Cameron. de Schiſ.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. T.</hi> and <hi>R. H.</hi> for <hi>James Collins</hi> at the Kings Armes in <hi>Ludgate-ſtreet,</hi> 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103429:2"/>
+            <pb facs="tcp:103429:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Otwithſtanding the many Modern Epiſtolar <hi>Flouts</hi> at ſuch kind of <hi>Apologies</hi> for Printing, give me leave to ſay, that many <hi>Conſiderable</hi> Perſons have earnestly de<g ref="char:EOLhyphen"/>ſired that this <hi>Sermon</hi> ſhould be publick. I was not much provoked to hear, that <hi>Some</hi> of my Auditors ſhould ſay, there was not a <hi>word of Edification</hi> in it; for as, I hope, they were none of the <hi>wiſeſt;</hi> ſo, I know, it intended to prevent <hi>deſtruction.</hi> We are called to labour under this <hi>odds:</hi> men may reject the <hi>means</hi> without <hi>Gods grace,</hi> we may not expect the <hi>End</hi> without Gods <hi>bleſſing.</hi>
+            </p>
+            <p>I fear ſome of my <hi>Friends</hi> queſtion my <hi>prudence;</hi> and are troubled that I appear ſo <hi>earneſt</hi> in the point. But I am not yet ſatisfied, that it is <hi>Prudence</hi> in the <hi>Paſtor</hi> not to be in <hi>earneſt,</hi> when the <hi>Flock</hi> is in Hazard. I believe I never had more <hi>plain Truth</hi> on my ſide, or greater <hi>Cauſe</hi> to
+<pb facs="tcp:103429:3"/> deliver it: when we ſee the <hi>Nerves</hi> of our Church <hi>reſolved,</hi> and the whole <hi>body</hi> and the very <hi>Foundations ſhake:</hi> when miſ<g ref="char:EOLhyphen"/>chief is intended to our <hi>Fathers</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ther</hi> and all our <hi>Brethren</hi> round about us: When, not only our <hi>Neighbours,</hi> but even <hi>Gods houſe</hi> is in flames, is this a <hi>time for a prudent man to keep ſilence?</hi> To what end are we placed upon the <hi>Tower</hi> as <hi>Watchmen,</hi> if we dare not ſay; <hi>What of the Night?</hi>
+            </p>
+            <p>I hope, upon <hi>ſerious</hi> deliberation, I have ſet my ſhoulder to the <hi>Parochial conſtitu<g ref="char:EOLhyphen"/>tion</hi> of the Church of <hi>England:</hi> if <hi>that</hi> falls, I can but fall <hi>with it:</hi> and in earneſt, I foreſee not, where I can stand <hi>ſafe,</hi> with<g ref="char:EOLhyphen"/>out it; neither care I much to be informed in that point: <hi>duty</hi> only is true <hi>ſecurity.</hi> He that ſaid <hi>follow me;</hi> hath <hi>this</hi> ſaid of him, <hi>the zeal of thine houſe hath eaten me up.</hi>
+            </p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:103429:3" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>1 Cor. 11. 22.</bibl>
+               <q>What! have you not houſes to eat and to drink in? Or deſpiſe you the Church of God?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T was <hi>truly</hi> obſerved, that the late <hi>Conventicles Ebb'd</hi> and <hi>Flow'd,</hi> with their hopes of <hi>Mercy</hi> and fears of <hi>Juſtice;</hi> in the Execution, and <hi>Suſpenſion</hi> of the Execution of the penal <hi>Laws;</hi> for, accordingly, upon the <hi>ſecuri<g ref="char:EOLhyphen"/>ty</hi> of impunity, we are now <hi>overflown</hi> beyond all bounds of Sober Moderation and <hi>Juſt Li<g ref="char:EOLhyphen"/>berty.</hi>
+            </p>
+            <p>And, who can any longer forbear? who, I ſay, that hath any ſenſe of <hi>Religion</hi> can forbear, to cry out; <hi>What an Horrible thing is committed in the Land?</hi> unleſs <hi>other</hi> parts are wiſer than <hi>ours.</hi>
+            </p>
+            <p>'Tis confeſt the obſervation is to our <hi>Reproach,</hi> and ought to be concealed: but that is impoſ<g ref="char:EOLhyphen"/>ſible: and perhaps, the <hi>Cure</hi> too is beyond our power: yet, I hope, none can think they have cauſe to be <hi>offended,</hi> if we uſe our <hi>liberty,</hi> ſo far only, as to detect and bewail the <hi>Sin</hi> and <hi>Miſ<g ref="char:EOLhyphen"/>cheif</hi>
+               <pb n="2" facs="tcp:103429:4"/> of this moſt monſtrous <hi>licentiouſneſs.</hi> My <hi>Complaint</hi> is this.</p>
+            <p>That, in a <hi>City</hi> of ſo excellent <hi>Government,</hi> and whoſe Governours are ſingular <hi>Examples</hi> in our <hi>publick</hi> Worſhip, whereas, about <hi>thirty</hi> or fourty perſons did uſe to <hi>meet</hi> together, <hi>private<g ref="char:EOLhyphen"/>ly,</hi> before the late <hi>Declaration;</hi> now, as them<g ref="char:EOLhyphen"/>ſelves doe glory (though it's thought, they ſome<g ref="char:EOLhyphen"/>times <hi>overlaſh</hi> a little) there are ſo many <hi>hun<g ref="char:EOLhyphen"/>dreds,</hi> that doe it in the face of the <hi>Sun:</hi> and <hi>theſe,</hi> generally, ſuch, as Communicated with us in our <hi>Pariſh-Churces,</hi> immediately before the <hi>Tolera<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>Theſe</hi> are they that now <hi>ſeparate themſelves;</hi> de<g ref="char:EOLhyphen"/>fie our Communion; ſet up their <hi>Altar</hi> againſt ours; and hold their <hi>new</hi> Aſſembles, juſt at the <hi>ſame hour</hi> with our <hi>Parochial;</hi> as if they <hi>deſigned</hi> the ruine of our Churches by the directeſt <hi>op<g ref="char:EOLhyphen"/>poſition</hi> imaginable: and all this, under colour of his <hi>Majeſties</hi> gracious <hi>Declaration;</hi> though that as directly declareth the <hi>Fſtabliſhment</hi> of the <hi>Church of England.</hi>
+            </p>
+            <p>But letit be well conſidered; is there <hi>one word</hi> in that Declaration to encourage <hi>Such</hi> to for<g ref="char:EOLhyphen"/>ſake us, as it found in Communion <hi>with us?</hi> It intends indeed to gratifie perſons of <hi>Tender Con<g ref="char:EOLhyphen"/>ſciences;</hi> that is, thoſe that could not, as them<g ref="char:EOLhyphen"/>ſelves thought, joyn with us in our publick wor<g ref="char:EOLhyphen"/>ſhip <hi>without ſin:</hi> but what part of it will <hi>they</hi> lay claim to that both <hi>Could</hi> and <hi>Did?</hi> If <hi>ſuch</hi> do ſeparate, and yet have any <hi>Conſciences,</hi> they ſeem not to be very <hi>tender</hi> ones that can ſerve at <hi>oppoſite</hi> Altars: and in ſo ſhort a time, upon the only <hi>ſingle</hi> Temptation of <hi>Liberty,</hi> can
+<pb n="3" facs="tcp:103429:4"/> ſo eaſily change their <hi>Guides,</hi> their <hi>Churches,</hi> their <hi>places</hi> of Aſſembling, and manner of <hi>wor<g ref="char:EOLhyphen"/>ſhip.</hi>
+            </p>
+            <p>For <hi>thus,</hi> they do not only diſturb, deſert, and divide, but even <hi>deſpiſe the Church of God.</hi> An <hi>Argument,</hi> which the great <hi>Apoſtle</hi> (what e<g ref="char:EOLhyphen"/>ver we think) thought ſufficient, not only to rebuke but <hi>ſuppreſs</hi> the Diviſions and <hi>Schiſmes</hi> in the Church of <hi>Corinth;</hi> as appears by the Smart exprobration in the <hi>Text. What! have you not Houſes to eat and to drink in? or deſpiſe you the Church of God?</hi>
+            </p>
+            <p>Let us weigh both the <hi>Indictment</hi> and the <hi>Evidence.</hi> The <hi>Indictment,</hi> in general, lieth in the <hi>Text:</hi> they <hi>deſpiſed the Church of God.</hi> The <hi>Evidence</hi> is found in the <hi>preceding</hi> verſes 18, 19, 20, 21. and is <hi>twofold.</hi> For they did <hi>ſo,</hi> both by their <hi>Schiſm</hi> and <hi>prophaneneſs.</hi>
+            </p>
+            <p>
+               <hi>I hear,</hi> ſaith he, <hi>there are diviſions among you;</hi> 'tis <hi>Schiſmes</hi> in the Margent, according to the <hi>Greek:</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and by the word <hi>[Hereſies]</hi> in the <hi>next</hi> verſe, he intends nothing elſe, by the conſent of all <hi>Expoſi<g ref="char:EOLhyphen"/>tors.</hi> And by their <hi>intemperance,</hi> which he calleth <hi>drunkeneſs,</hi> v. 21. he argueth their <hi>prophaneneſs:</hi> and by <hi>both</hi> evinceth their <hi>deſpiſing the Church of God</hi> in the Text.</p>
+            <p>Hence my <hi>Work</hi> is,</p>
+            <list>
+               <item>1. To lay before you the <hi>nature of Schiſm.</hi>
+               </item>
+               <item>2. To ſhew you, that the <hi>preſent ſeparation</hi> is ſuch.</item>
+               <item>3. That <hi>thus</hi> the <hi>Church</hi> of God is <hi>deſpiſed;</hi> eſpecially when the conſideration of <hi>prophaneneſs</hi> is added thereunto.</item>
+            </list>
+            <pb n="4" facs="tcp:103429:5"/>
+            <p> Now of theſe things, I beſeech you of your <hi>Clemency,</hi> to hear me a <hi>few words:</hi> which I have rather choſen to deliver at <hi>ſuch a time</hi> as this; when, it is preſumed, there are many from <hi>ſe<g ref="char:EOLhyphen"/>veral parts</hi> of the <hi>Country,</hi> equally concerned in the <hi>occaſion, aſſembled</hi> to hear me. For the choiſe of <hi>this</hi> ſubject, with a little patience, you will perceive, the <hi>ſin</hi> and <hi>danger</hi> of the preſent <hi>Schiſm</hi> is too plain a <hi>Reaſon.</hi> And for my in<g ref="char:EOLhyphen"/>couragement, in labouring to <hi>ſtay this plague,</hi> and the farther <hi>eating</hi> of this ſore <hi>Cancer,</hi> I am ſure I follow very <hi>great Examples.</hi>
+            </p>
+            <p>What do the <hi>Apoſtles;</hi> what the moſt Emi<g ref="char:EOLhyphen"/>nent <hi>Fathers;</hi> what all our ſolid <hi>Modern Di<g ref="char:EOLhyphen"/>vines,</hi> oppoſe themſelves againſt, upon all occa<g ref="char:EOLhyphen"/>ſions, with more <hi>zeal</hi> and vehemence of ſpirit, than againſt <hi>Cauſers</hi> of <hi>diviſion</hi> and Schiſm in the Church? Yea herein, not only our <hi>own</hi> Paſtors of the Church of <hi>England,</hi> but the very <hi>Noncon<g ref="char:EOLhyphen"/>formiſts,</hi> (which were eaſy to manifeſt by the writings of the <hi>Puritans</hi> againſt the <hi>Browniſts</hi> heretofore, and more lately of the <hi>Presbyterians</hi> againſt the <hi>Independents,</hi> and other <hi>Sectaries,)</hi> have led me the way.</p>
+            <p>So that, if I prove <hi>that thing</hi> to be <hi>Schiſm</hi> which I ſpeak againſt; and that Schiſm <hi>ſuch,</hi> as is of fearful <hi>conſequence</hi> to the Church of God; I doubt not of your kindneſs to <hi>pardon</hi> me, if I ſhall uſe that <hi>boldneſs</hi> in my way of <hi>Arguing,</hi> that in other Caſes might not ſo well become me, in ſo <hi>great,</hi> ſo grave, ſo <hi>Learned</hi> and ſo Honourable an Audience. And with <hi>this Confidence</hi> I ſhall now enter the liſts.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:103429:5"/>
+               <head>
+                  <hi>Of</hi> Schiſm <hi>in</hi> general, <hi>and the</hi> Application <hi>of it to the pre<g ref="char:EOLhyphen"/>ſent</hi> ſeparation.</head>
+               <p>We are to lay our <hi>foundation</hi> in the right notion of <hi>Schiſm:</hi> to that end, we ſhall ſhew you firſt the nature of ſchiſm in <hi>general;</hi> and then the nature of <hi>that</hi> ſchiſm of which the <hi>Co<g ref="char:EOLhyphen"/>rinthians</hi> were guilty: ſtill making <hi>applicati<g ref="char:EOLhyphen"/>on.</hi> to the preſent Separation as we paſs a<g ref="char:EOLhyphen"/>long.</p>
+               <p>For the firſt, that we may underſtand what <hi>Schiſm</hi> in <hi>general</hi> is, we muſt know that it is agreed by all that have <hi>formerly</hi> written about it, that the nature of it lies in <hi>practice;</hi> and not in <hi>opinion,</hi> farther than the opinion concerns the practice. Indeed the words, <hi>Hereſie</hi> and <hi>Schiſm,</hi> ſound the ſame <note place="margin">
+                     <hi>Accommoda<g ref="char:EOLhyphen"/>tum eſt ad ſig<g ref="char:EOLhyphen"/>nif. ſeparatio<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m qua quis ſeparat ab ec<g ref="char:EOLhyphen"/>cleſiâ. Iſodor.</hi> 8. <hi>Etym. cap.</hi> 3.</note> thing in the <hi>Text,</hi> and ſome other places of ho<g ref="char:EOLhyphen"/>ly <hi>Scripture;</hi> but <hi>after ages</hi> found reaſon to <hi>di<g ref="char:EOLhyphen"/>ſtinguiſh</hi> them; by confining <hi>Hereſie</hi> to <hi>error</hi> in <hi>Faith,</hi> and <hi>ſchiſm</hi> to error in <hi>practice:</hi> and that practice peculiarly <hi>ſuch,</hi> as is a <hi>breach of unity</hi> in the <hi>Church</hi> (as S. <hi>Auſtine</hi> and S. <hi>Hierom</hi> teach) what ever our <hi>opinions</hi> otherwiſe be.</p>
+               <p>Schiſma, <hi>à Sciſſurâ</hi> vocatur, ſchiſm is a rent: therefore the <hi>Holy Scriptures</hi> expreſs it, by cauſ<g ref="char:EOLhyphen"/>ing <hi>diviſions; ſeparating our ſelves; forſak<g ref="char:EOLhyphen"/>ing the Aſſemblies; heaping up teachers to our ſelves;</hi> and <hi>drawing Diſciples</hi> after us, and the like.</p>
+               <pb n="6" facs="tcp:103429:6"/>
+               <p> 
+                  <hi>Ignatius</hi> and S. <hi>Cyprian</hi> ſoon after define ſchiſm <note place="margin">
+                     <hi>Cyprian Epiſt. ad Pupuen. Tertul. adv. Haer. lib.</hi> 1. <hi>c.</hi> 5. <hi>Irenae. lib.</hi> 4. <hi>c.</hi> 43. <hi>adv. Haer. Chryſoſt. in Ep. ad Eph. Hom.</hi> 2.</note> by a <hi>renouncing,</hi> or <hi>not obeying</hi> or ſubmitting to our lawful <hi>Guides, Biſhops</hi> and <hi>Presbyters.</hi> And with <hi>Tertullian,</hi> S. <hi>Auſtin,</hi> S. <hi>Jerom,</hi> and the reſt of the Fathers, ſchiſm is a breach of <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> by a <hi>Separation</hi> from the Church, and errecting <hi>Altar againſt Altar.</hi>
+               </p>
+               <p>But when things of this nature had paſt a more <hi>through</hi> examination; it was at length concluded, that there might happen to be a <hi>juſt cauſe</hi> of ſeparating from a <hi>true Church:</hi> and hence ſchiſm came to a more accurate and <hi>ſtated definition:</hi> and now it ſeems to be agreed on by all, at leaſt <hi>Proteſtants, That Schiſm is an unlaw<g ref="char:EOLhyphen"/>ful</hi> 
+                  <note place="margin">Definition of ſchiſm.</note> 
+                  <hi>and unwarrantable or cauſeleſs rending or divi<g ref="char:EOLhyphen"/>ding the Church of God.</hi>
+               </p>
+               <p>Schiſm is <hi>dividing the Church;</hi> therefore ſuch as are ſaid to be guilty of it, are ſuppoſed to be, or <note place="margin">Ex communi ſenſu ſupponit, eum, qui ſepa<g ref="char:EOLhyphen"/>ratur, fuiſſe unitum; ut Sciſſura, &amp;c. Lud. d. la cand. in Tertul.</note> 
+                  <hi>bound</hi> to be <hi>members</hi> of the <hi>Church</hi> thus <hi>divided.</hi> Again 'tis an <hi>unlawful, unwarrantable</hi> and <hi>cauſleſs</hi> dividing; therefore it muſt be either without <hi>juſt ground;</hi> or, at leaſt, without <hi>due counſel</hi> and advice, if the cauſe be juſt. According to <hi>Cameron</hi> and others; <hi>Schiſma eſt ſeceſſio ab Ec<g ref="char:EOLhyphen"/>cleſia, vel injuſta vel temeraria:</hi> ſchiſm is ei<g ref="char:EOLhyphen"/>ther an <hi>unjuſt</hi> or a <hi>raſh</hi> ſeparation from the Church.</p>
+               <p>Once more; It is alſo generally agreed, That there can be no <hi>just cauſe</hi> of ſeparation from a <hi>true Church,</hi> while we may <hi>lawfully</hi> Communi<g ref="char:EOLhyphen"/>cate with it; that is, while we may do ſo with<g ref="char:EOLhyphen"/>out ſinning. So that ſchiſm is a refuſing to com<g ref="char:EOLhyphen"/>municate with ſuch a Church. It is as <hi>weakly,</hi> as needleſly ſaid of ſome, that a not having
+<pb n="7" facs="tcp:103429:6" rendition="simple:additions"/> 
+                  <hi>actual communion</hi> with a particular Church is not ſchiſm. Who ever dream'd it was? yet a <hi>re<g ref="char:EOLhyphen"/>fuſing</hi> to Communicate, or, as <hi>Ames</hi> ſaith well, a <note place="margin">
+                     <hi>Schiſma in tantum ſepara<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ab Eccleſia in quantum re<g ref="char:EOLhyphen"/>nuntiat Com<g ref="char:EOLhyphen"/>munioni.</hi> Am.</note> 
+                  <hi>renouncing</hi> Communion with <hi>any</hi> Church, eſpe<g ref="char:EOLhyphen"/>cially <hi>our own,</hi> while we may continue it <hi>without ſinning, this,</hi> I ſay, is ſchiſm; and indeed general<g ref="char:EOLhyphen"/>ly acknowledged to be ſo; in that all parties <hi>concern'd</hi> in the controverſie, put it to this <hi>ſole iſſue;</hi> whether the <hi>conditions</hi> of Commu<g ref="char:EOLhyphen"/>nion be <hi>lawful;</hi> that is, whether we may Com<g ref="char:EOLhyphen"/>municate <hi>without ſin.</hi> And indeed as nothing is better than <hi>unity</hi> but <hi>duty;</hi> ſo nothing is worſe than <hi>diviſion</hi> or breach of unity, eſpeci<g ref="char:EOLhyphen"/>ally in the <hi>Church</hi> of God, but <hi>ſin.</hi>
+               </p>
+               <p>
+                  <hi>Schiſm</hi> then is <hi>ſuch unlawful</hi> breach of <hi>unity;</hi> and only a breach of <hi>charity</hi> as an <hi>effect</hi> of it. And all <hi>cauſeleſs</hi> ſeparation is ſuch unlawful breach both of <hi>unity</hi> and <hi>Charity:</hi> and ſuch ſe<g ref="char:EOLhyphen"/>paration is <hi>cauſeleſs,</hi> when we may Communi<g ref="char:EOLhyphen"/>cate <hi>without ſin:</hi> and conſequently, is <hi>ſchiſm</hi> beyond all exception.</p>
+               <p>As there is little difference about the <hi>definiti<g ref="char:EOLhyphen"/>on</hi> 
+                  <note place="margin">Diſtinctions of ſchiſm.</note> of ſchiſm; ſo leſs about the <hi>diſtinctions</hi> or modes of it. We every where find it ſaid to be <hi>Partial,</hi> when we cauſeleſly refuſe to Communi<g ref="char:EOLhyphen"/>cate with a true Church in <hi>ſome</hi> ordinances on<g ref="char:EOLhyphen"/>ly: <hi>Total,</hi> when in <hi>all.</hi> It is <hi>negative,</hi> when we <hi>ſimply</hi> ſeparate: <hi>poſitive</hi> and formal, when the <hi>ſeparated</hi> gather <hi>new Churches,</hi> and ſet up Altar againſt Altar.</p>
+               <p>And now we have the <hi>foundation</hi> laid, not on the <hi>narrow</hi> principles of a <hi>party,</hi> but in its <hi>full latitude,</hi> according to the <hi>Scriptures</hi> and the <hi>Church</hi> of God. And I dare even challenge
+<pb n="8" facs="tcp:103429:7"/> you to ſhew me <hi>one</hi> good <hi>Authour</hi> of <hi>any</hi> per<g ref="char:EOLhyphen"/>ſwaſion, that hath written <hi>purpoſely</hi> of this point, that contradicts me in <hi>any one</hi> particular of the premiſes. I am ſure, the worſt of the <hi>ſeparatiſts</hi> doe not: for that they <hi>generally</hi> excuſe their ſe<g ref="char:EOLhyphen"/>paration, by this <hi>plea;</hi> that our <hi>Churches</hi> are <hi>null:</hi> or they cannot <hi>joyn</hi> with us <hi>without ſin.</hi>
+               </p>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>Give me leave then ſo far to <hi>apply</hi> this <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> of ſchiſm, to the preſent <hi>practice:</hi> and now <hi>judge</hi> righteouſly. Is not the preſent gene<g ref="char:EOLhyphen"/>ral <hi>ſeparation</hi> from our <hi>Churches,</hi> in the language of the <hi>Scripture,</hi> a <hi>cauſing diviſions;</hi> a <hi>ſeparat<g ref="char:EOLhyphen"/>ing themſelves;</hi> a <hi>forſaking our Aſſemblies;</hi> a <hi>going out from us;</hi> a <hi>heaping up new Teachers;</hi> and a <hi>drawing Diſciples after them?</hi>
+                  </p>
+                  <p>Do they not, in the words of the <hi>Fathers, renounce</hi> our <hi>Biſhops</hi> and Presbyters; break the <hi>unity</hi> of the Church; <hi>ſeparate</hi> from it; and ſet up <hi>Altar</hi> againſt <hi>Altar?</hi>
+                  </p>
+                  <p>Do they not doe this, <hi>raſhly</hi> without due advice; <hi>unjuſtly</hi> without ſufficient ground? Do they not thus raſhly and unjuſtly ſeparate from a <hi>true Church,</hi> not only in <hi>part</hi> but <hi>wholly?</hi> not only <hi>negatively</hi> but <hi>poſitively,</hi> and run upon <hi>formal ſchiſm,</hi> in the Reformed and <hi>Presby<g ref="char:EOLhyphen"/>terian Dialect,</hi> by <hi>renouncing our Communion,</hi> and gathering <hi>new Churches,</hi> under new <hi>Mini<g ref="char:EOLhyphen"/>ſters, government</hi> and manner of <hi>worſhip?</hi> Who can <hi>deny</hi> it? who dare <hi>defend</hi> it?</p>
+                  <pb n="9" facs="tcp:103429:7" rendition="simple:additions"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> Keek <hi>cloſe</hi> to the Argument, and there are but <hi>two</hi> things that can poſſibly be <hi>objected:</hi> either that they are not, and ought not to be <hi>members</hi> of our Churches: or, that they cannot continue ſo <hi>without ſin.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> But <hi>neither</hi> of theſe can be <hi>bended</hi> to the pre<g ref="char:EOLhyphen"/>ſent <hi>caſe:</hi> for we ſpeak, eſpecially, of ſuch as were <hi>Baptized;</hi> and have, for <hi>many years</hi> together, worſhipped God, in their own <hi>perſons,</hi> in the <hi>Temples</hi> with us: and thus have done as much to the making themſelves <hi>members</hi> of our Pa<g ref="char:EOLhyphen"/>riſhs-Churches, as the very <hi>Independents</hi> re<g ref="char:EOLhyphen"/>quire.</p>
+                  <p>Beſides, it ought to be conſidered ſeriouſly, that they ſtand <hi>obliged</hi> to worſhip God with us by the laws of <hi>Order</hi> and <hi>Cohabitation:</hi> by the civil and Eccleſiaſtical <hi>laws</hi> of the <hi>Church</hi> and <hi>Kingdom:</hi> which, do what they can, will reach and <hi>bind</hi> their <hi>Conſciences,</hi> both by virtue of the <hi>natural laws</hi> of Government, and the <hi>poſitive laws</hi> of Scripture. Both which have <hi>Divine Authority</hi> ſufficient to <hi>exact</hi> your obedience to your <hi>Rulers</hi> in all <hi>lawful things.</hi>
+                  </p>
+                  <p>And that, to worſhip God with us in the <hi>Temple,</hi> is a <hi>lawful thing;</hi> I appeal to your own preſent <hi>judgment,</hi> if it agree with your late <hi>practice.</hi> However, I am ſure, I have the gene<g ref="char:EOLhyphen"/>ral conſent of the <hi>Reformed Churches,</hi> and of the Old <hi>Nonconformiſts, Puritans,</hi> and <hi>Presbyterians,</hi> againſt both your <hi>judgment</hi> and <hi>practice,</hi> if they be indeed both <hi>changed.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:103429:8"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> I know it is ſaid, they do not <hi>abſolutely</hi> de<g ref="char:EOLhyphen"/>ny our Communion; but they think they may <hi>ſerve God better</hi> in their <hi>gathered Churches.</hi> This is the refuge of their <hi>cunning men.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſwer. </seg>
+                     </label> But can they be in <hi>earneſt?</hi> Our Communion then muſt be either <hi>corrupt</hi> or <hi>defective.</hi> De<g ref="char:EOLhyphen"/>fective, you cannot ſay; for we have all the <hi>ſame Ordinances</hi> that you have, and a great many good <hi>Prayers</hi> that you have not.</p>
+                  <p>Are we <hi>corrupt</hi> then? Shew, wherein: there is nothing in our <hi>lay-Communion</hi> that you uſe to ſcruple, but <hi>Kneeling</hi> at the Sacrament. As for the <hi>Surplice</hi> and the <hi>Croſs,</hi> theſe belong to the <hi>Paſtor</hi>'s Office: And ſhall not he have <hi>liberty</hi> to <hi>doe</hi> his <hi>duty,</hi> as well as you to <hi>neglect</hi> yours? Beſides, if you ſhould imagine, that you are concern'd about the Application of the Sign of the <hi>Croſs</hi> to your Children; I need not tell you of <hi>wayes</hi> to <hi>avoid</hi> it, <hi>without</hi> gathering <hi>Churches.</hi>
+                  </p>
+                  <p>If <hi>theſe things be ſo,</hi> anſwer me like <hi>Chriſti<g ref="char:EOLhyphen"/>ans.</hi> You would Separate that you may have <hi>pure Ordinances, i. e.</hi> that you may receive the Communion, <hi>ſitting.</hi>
+                  </p>
+                  <p>And is it, indeed, all come to this? And will this bear you out in a <hi>Total Separation,</hi> and tear<g ref="char:EOLhyphen"/>ing our <hi>Churches</hi> in pieces, as you do? You can<g ref="char:EOLhyphen"/>not think it.</p>
+                  <p>But, what ever is amiſs <hi>with us,</hi> your <hi>late pra<g ref="char:EOLhyphen"/>ctice</hi> and <hi>this</hi> very <hi>Objection</hi> granteth, that you believe it <hi>lawful</hi> to joyn in our Worſhip; and if ſo, nothing can excuſe your Separation from
+<pb n="11" facs="tcp:103429:8" rendition="simple:additions"/> 
+                     <hi>Schiſm,</hi> according to the Doctrine of <hi>Ames,</hi> and indeed in the Judgment of <hi>all men</hi> but your ſelves; if not very lately, of <hi>your ſelves</hi> too.</p>
+                  <p>Beſides, to Separate, that you may <hi>ſerve God</hi> 
+                     <note place="margin">
+                        <hi>Inter nos qui<g ref="char:EOLhyphen"/>bus idem Chri<g ref="char:EOLhyphen"/>ſtus, una Reli<g ref="char:EOLhyphen"/>gio, eadem Sa<g ref="char:EOLhyphen"/>cramenta, ni<g ref="char:EOLhyphen"/>hil in Chriſtia<g ref="char:EOLhyphen"/>na obſervatio<g ref="char:EOLhyphen"/>ne diverſum. Donat. Aug. To.</hi> 7. <hi>p.</hi> 46. <hi>m.</hi>
+                     </note> 
+                     <hi>better,</hi> is too like the pretence of all <hi>former</hi> Schiſmaticks, that ſtand condemn'd in the <hi>Hiſto<g ref="char:EOLhyphen"/>ries</hi> of the Church. The <hi>Novatians, Audeans, Donatiſts;</hi> the Soberer part of our own <hi>Sepa<g ref="char:EOLhyphen"/>ratiſts</hi> and <hi>Independents,</hi> all theſe pretended for <hi>Reformation</hi> and <hi>purer Worſhip</hi> and <hi>Diſcipline;</hi> which, with <hi>you,</hi> is to <hi>ſerve God better.</hi>
+                  </p>
+                  <p>Laſtly, pardon me, if I warn you of ſome <hi>dan<g ref="char:EOLhyphen"/>ger</hi> in this Principle; if left or truſted in their hands that are <hi>Cunning,</hi> and know how to uſe it with <hi>Advantage.</hi> It laies the <hi>Reins</hi> of Govern<g ref="char:EOLhyphen"/>ment upon the <hi>Peoples</hi> Neck, and impels them to <hi>reform</hi> without their <hi>Rulers;</hi> and conſequent<g ref="char:EOLhyphen"/>ly, is plainly inconſiſtent with the <hi>Reaſon</hi> and order of all good <hi>Polity;</hi> and opens a Gap for Diviſion and Confuſion in the Church (how ever it fares with the State) while every one is hurried by his own <hi>Wild Fancy,</hi> ſet on fire by this <hi>Principle.</hi>
+                  </p>
+                  <p>Yea, it carries alſo in it the Ruine of the <hi>Se<g ref="char:EOLhyphen"/>parated</hi> Churches themſelves: It hath been for<g ref="char:EOLhyphen"/>merly obſerved to <hi>ferment</hi> and work ſtrangely in them, and may do the like again. It hath not been content to <hi>pill</hi> off the firſt <hi>black</hi> or browner Skin of the <hi>Onion;</hi> but it would have it <hi>whiter</hi> and whiter; and ſtill hath pilled and pilled, one after another, till nothing has been left (except <hi>tears</hi> in the eyes of the beholders) but <hi>Skin</hi> and <hi>Husks;</hi> thought fit only to be
+<pb n="12" facs="tcp:103429:9"/> trodden under foot by <hi>Atheiſtical Swine;</hi> while the <hi>Reformers themſelves</hi> are prepared to be torn in pieces by <hi>Doggs;</hi> as the Apoſtle ſtiles ſome Ravenous <hi>Antichriſtian</hi> Doctors.</p>
+                  <p>2. The Point hath yet force to defeat <hi>another</hi> great Argument for Separation; for if our peo<g ref="char:EOLhyphen"/>ple cannot leave us <hi>without Sin</hi> and Schiſm; how vainly it is ſaid, <hi>We muſt preach; we may not preach in the Temples; we cannot preach otherwhere with<g ref="char:EOLhyphen"/>out Auditours; we can have no Auditours but out of the Parochial Congregations; therefore we muſt gather Churches out of them.</hi>
+                  </p>
+                  <p>One would think the Argument went better thus: had we a People of our <hi>own,</hi> there were a <hi>neceſſity</hi> of our preaching; but ſeeing we have <hi>none,</hi> there is <hi>no ſuch</hi> neceſſity; where there <hi>is no opportunity, there is no duty,</hi> ſaith Mr. <hi>Baxter:</hi> The Argument as it is, is in <hi>plain Engliſh,</hi> no bet<g ref="char:EOLhyphen"/>ter than this; <hi>We muſt provide for our Families; we cannot doe this except we ſteal from our Neigh<g ref="char:EOLhyphen"/>bour; therefore we muſt ſteal.</hi>
+                  </p>
+                  <p>It ſeems ridiculous to plead an intereſt in, or <hi>Paſtoral Relation</hi> to the people you had <hi>ten years agon;</hi> founded in the <hi>Independent</hi> Notion of the peoples <hi>Conſent.</hi> Where do you find one word in <hi>Scripture,</hi> making the peoples Conſent <hi>neceſ<g ref="char:EOLhyphen"/>ſary</hi> to a particular Paſtors <hi>Call,</hi> or his relation to them? Beſides, in a <hi>Christian</hi> Common<g ref="char:EOLhyphen"/>wealth, is there nothing required to give ſuch re<g ref="char:EOLhyphen"/>lation but the <hi>peoples</hi> Conſent, if that be ſo? Is the Conſent of the <hi>Magiſtrate</hi> expreſſed in his <hi>Laws</hi> reſpectively, nothing in this matter? Is the Conſent of the <hi>Overſeers</hi> in the <hi>Church,</hi> that give us <hi>Inſtitution</hi> nothing? It ſeems, beyond all
+<pb n="13" facs="tcp:103429:9"/> doubt, that the <hi>Laws</hi> of the <hi>Church</hi> where we live, muſt be the meaſure and <hi>ſtandard</hi> of our <hi>ſpiritual Title,</hi> as well as the Laws of the <hi>Land,</hi> of our <hi>Temporal.</hi> And if the <hi>King</hi> and the <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> have a hand in our <hi>Introduction</hi> and <hi>Ejecti<g ref="char:EOLhyphen"/>on,</hi> we cannot be <hi>reſtored</hi> without them.</p>
+                  <p>Beſides, the <hi>remedy</hi> is too too <hi>ſhort,</hi> were it <hi>good:</hi> Have not the people generally conſent<g ref="char:EOLhyphen"/>ed to <hi>other Paſtors?</hi> How few of the <hi>Ejected</hi> Miniſters do indeed apply themſelves to their <hi>Antient</hi> Flocks, as they ſhould do by this <hi>Rule?</hi> Yea, they put their <hi>Sickle,</hi> every where, into o<g ref="char:EOLhyphen"/>thers mens <hi>Harveſt,</hi> without all <hi>ſhadow</hi> of this poor pretenſe.</p>
+                  <p>Give me leave to be plain; This <hi>pretended</hi> ne<g ref="char:EOLhyphen"/>ceſſity of preaching and drawing away our people from us, the <hi>real</hi> neceſſity of <hi>peace</hi> and order condemns; the neceſſity of <hi>obedience</hi> to the Laws condemns; neceſſity of obedience to <hi>God's word,</hi> requiring obedience to thoſe Laws, condemns: Yea, the neceſſity of keeping your <hi>Promiſes</hi> and <hi>Oaths,</hi> if you were ordained by <hi>Biſhops,</hi> flatly condemns.</p>
+                  <p>Laſtly, that we <hi>muſt preach,</hi> though <hi>inhibited</hi> by Law, and Law <hi>executed,</hi> is a <hi>principle</hi> con<g ref="char:EOLhyphen"/>demn'd by the <hi>reaſon</hi> and <hi>practice</hi> of all Churches; yea of all kind of <hi>Nonconformiſts;</hi> the late <hi>Presbyterians,</hi> the old <hi>Puritans,</hi> and the very <hi>Independents</hi> themſelves in <hi>New-England;</hi> as might eaſily be made to appear. And if our Brethren concern'd, examine their <hi>own late</hi> Principles, and the little <hi>reaſon</hi> they had to for<g ref="char:EOLhyphen"/>ſake them, I fear they will hardly eſcape <hi>Self-condemnation:</hi> But I deſire it may be heeded,
+<pb n="14" facs="tcp:103429:10" rendition="simple:additions"/> that I here ſpeak not of the point of <hi>Liberty,</hi> but of <hi>Law</hi> and <hi>Conſcience.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the Schiſm charged upon the</hi> Co<g ref="char:EOLhyphen"/>rinthians; <hi>particularly, in their</hi> preferring <hi>ſome</hi> Paſtors <hi>to the ſleighting of others.</hi>
+               </head>
+               <p>YOu have heard what <hi>Schiſm, in general,</hi> is; and how notoriouſly the <hi>preſent Separation</hi> is guilty of it. Let us now conſider the <hi>parti<g ref="char:EOLhyphen"/>cular</hi> Schiſms in the Church of <hi>Corinth,</hi> and the <hi>agreeableneſs</hi> of <hi>ours</hi> with theſe.</p>
+               <p>The <hi>Corinthians</hi> ſeem to be charged with a <hi>threefold</hi> Schiſm. 1. In <hi>preferring</hi> ſome <hi>Teachers</hi> to the ſleighting of others. 2. <hi>Refuſing</hi> to ob<g ref="char:EOLhyphen"/>ſerve the lawful <hi>Cuſtoms</hi> of their own Church. 3. <hi>Dividing</hi> in the <hi>Communion</hi> of it.</p>
+               <p>The <hi>firſt</hi> we find, 1 <hi>Cor.</hi> 1. 10. <hi>Now I beſeech you brethren, let there be no Diviſions (or Schiſms</hi> Gr.) <hi>among you; it hath been declared to me that there are contentions among you,</hi> verſ. 11.</p>
+               <p>Now, what were theſe <hi>Schiſms</hi> and <hi>Contenti<g ref="char:EOLhyphen"/>ons?</hi> Why, <hi>every one ſaith, I am of Paul, I of A<g ref="char:EOLhyphen"/>pollo, I of Cephas, and I of Chriſt;</hi> one <hi>not liking</hi> to hear any but <hi>ſolid</hi> Paul; another, any, but <hi>zealous</hi> Peter; a third, any, but <hi>eloquent</hi> Apol<g ref="char:EOLhyphen"/>los; and a fourth would hear <hi>none,</hi> but wait for the Inſpirations of <hi>Chriſt</hi> himſelf.</p>
+               <p>Thus, we ſee we may be <hi>guilty</hi> of Schiſm, not
+<pb n="15" facs="tcp:103429:10" rendition="simple:additions"/> only by refuſing <hi>all Miniſteries;</hi> but by having <hi>Itching ears,</hi> and <hi>heaping up Teachers</hi> to our ſelves; and by a <hi>partial</hi> preferring ſome kind of <hi>Teachers</hi> to the ſleighting of others with pretenſes of <hi>Edi<g ref="char:EOLhyphen"/>fying</hi> better by them.</p>
+               <p>This too palpably argues a <hi>renouncing</hi> and diſobedience of our own <hi>Paſtors,</hi> that <hi>notorious</hi> 
+                  <note place="margin">
+                     <hi>Donatiſt. In Cauſa Cecilia<g ref="char:EOLhyphen"/>ni Epiſcopi, cui crimina ob<g ref="char:EOLhyphen"/>jecerunt,—ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ab Eccleſiâ Catho<g ref="char:EOLhyphen"/>licâ diviſerunt. Aug. To.</hi> 2. <hi>Ept.</hi> 50. <hi>Eccleſia propter quemlibet ho<g ref="char:EOLhyphen"/>minem relin<g ref="char:EOLhyphen"/>quere non deb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>mus, ibid. Epiſ. ad Pup<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> anum: vid. et<g ref="char:EOLhyphen"/>jam Epi.</hi> 1. <hi>ad Cornelium.</hi>
+                  </note> 
+                  <hi>Schiſm</hi> branded by the moſt eminent <hi>Fathers</hi> in the <hi>Primitive</hi> Ages of the Church, as before was noted; and Mr. <hi>Hales</hi> tells us, that the <hi>peo<g ref="char:EOLhyphen"/>ples</hi> partial <hi>preference</hi> of ſome <hi>Biſhops</hi> before o<g ref="char:EOLhyphen"/>thers, hath been the <hi>general</hi> cauſe of Schiſm in <hi>moſt Ages;</hi> yea, he adds, that he that reads St. <hi>Cyprian,</hi> would imagine that <hi>that Father</hi> thought, there was <hi>no other</hi> Schiſm but this.</p>
+               <p>Hear <hi>him</hi> in one place for the reſt; <hi>unde enim Schiſmata, &amp;c.</hi> whence do <hi>Schiſms</hi> and Hereſies ariſe? but when the Biſhop who is one, and go<g ref="char:EOLhyphen"/>verns the Church, is <hi>contemn'd</hi> by the proud <hi>preſumption</hi> of certain perſons; and the Man that is honoured, <hi>Dignatione Dei, Indignis homi<g ref="char:EOLhyphen"/>nibus Judicatur,</hi> is judged by unworthy men.</p>
+               <p>Now, are not our <hi>New Churches</hi> Schiſmatical enough for this <hi>Cauſe</hi> alſo? Is it not <hi>reſpect of Per<g ref="char:EOLhyphen"/>ſons</hi> that draws our people from us, to hear their <hi>New</hi> or <hi>Old</hi> Teachers?</p>
+               <p>The <hi>Preachers</hi> ſay, indeed, they muſt take care of their own <hi>old Flocks;</hi> and the <hi>people</hi> ſay, they muſt hear their <hi>old</hi> Miniſters.</p>
+               <p>But, beſides what we have ſaid to this already, we muſt ſay, the <hi>cheat</hi> is too manifeſt: For, how few of their <hi>old</hi> Miniſters are <hi>left,</hi> that will preach unto them? Many are <hi>dead;</hi> many <hi>con<g ref="char:EOLhyphen"/>form;</hi> and ſome are honeſt and <hi>modeſt,</hi> and like
+<pb n="16" facs="tcp:103429:11"/> not to be <hi>Independents</hi> and gather Churches: And very <hi>few</hi> of theſe few, that are left, and do take this <hi>liberty,</hi> are to be found near their <hi>old places;</hi> except they are ſuch, as were ejected out of the beſt of our <hi>Towns.</hi>
+               </p>
+               <p>But the <hi>Non-Conformiſts</hi> are <hi>godly,</hi> zealous and painful Preachers: And what is this but to inti<g ref="char:EOLhyphen"/>mate that we are <hi>not</hi> ſo, though, thanks be to God, you cannot <hi>ſay</hi> it; eſpecially in the Pari<g ref="char:EOLhyphen"/>ſhes, where your Godly <hi>Preachers</hi> would <hi>gather</hi> their Churches.</p>
+               <p>But, my brethren, is not this to ſay, <hi>I am of Paul, &amp;c.</hi> Deceive not your ſelves, this is not your vertue, or your ſtrength, or <hi>ſpiritualneſs</hi> above others; but indeed your Sin and <hi>Schiſm,</hi> your weakneſs, and your <hi>fleſh.</hi>
+               </p>
+               <p>The <hi>Apoſtle</hi> ſaw (though you cannot,) <hi>envy<g ref="char:EOLhyphen"/>ing, ſtrife</hi> and <hi>faction</hi> in theſe, and ſuch like pre<g ref="char:EOLhyphen"/>tences. I write unto you, ſaith he, not as <hi>unto ſpiritual,</hi> but as <hi>carnal</hi> and <hi>Babes; for ye are yet carnal: For whereas there is envying and ſtrife and Diviſions or Factions among you, are ye not carnal and walk as men?</hi> And all this he proves, after this manner; for <hi>while one ſaith, I am of Paul; and another, I am of Apollo; are ye not carnal?</hi> 1 Cor. 3. 1, 2, 3, 4.</p>
+               <p>Yet you may not eſcape thus: <hi>Your</hi> practice hath a <hi>double Aggravation,</hi> beyond <hi>theirs.</hi>
+               </p>
+               <p>1. The Preachers in <hi>Corinth</hi> were all of one kind of <hi>Ordination,</hi> and Paſtors of the <hi>ſame</hi> Church; and did not at all <hi>countenance</hi> this par<g ref="char:EOLhyphen"/>tial reſpect of <hi>their own</hi> gifts, but rather reprove it; as you have heard the <hi>Apoſtle,</hi> who was one of them: So that there was no <hi>Schiſm</hi> or diffe<g ref="char:EOLhyphen"/>rence
+<pb n="17" facs="tcp:103429:11"/> among the <hi>Pastors;</hi> and St. <hi>Hierom</hi>'s <hi>great</hi> 
+                  <note place="margin">
+                     <hi>In. cap.</hi> 3. <hi>ad Titum.</hi>
+                  </note> Cauſe of Schiſm was wanting; who tells us, that it Separates from the Church <hi>propter Epiſcopalem diſſenſionem.</hi>
+               </p>
+               <p>But you Separate from us, and adhere to ſuch as are <hi>no</hi> allowed <hi>Paſtors</hi> of our Church, either by <hi>Preſentation, Inſtitution, Induction,</hi> or, for the moſt part of them, Ordination it ſelf; and we have cauſe to fear, that our Differences are made not only by the <hi>people,</hi> but chiefly by the <hi>Teachers.</hi>
+               </p>
+               <p>Secondly, <hi>Paul, Apollo</hi> and <hi>Cephas,</hi> as they were Miniſters of the ſame Church, and at <hi>unity</hi> among themſelves, ſo they had all the ſame Mode of <hi>Worſhip,</hi> the ſame Government and Diſcipline, as well as <hi>Doctrine.</hi>
+               </p>
+               <p>But now, as you forſake your true <hi>Paſtors,</hi> ſo you make <hi>new Churches</hi> of another <hi>Miniſtry, Worſhip</hi> and <hi>Government,</hi> and quite of <hi>another Conſtitution;</hi> and where is your <hi>Sobriety</hi> to run thus upon a <hi>Total Separation</hi> from us? What think ye, <hi>are ye not carnal and walk as men</hi> in the Apoſtles Logick? Yea, I ſay, ye are <hi>children,</hi> and <hi>driven of the wind and toſſed.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The</hi> Second <hi>Sort of Schiſm, viz.</hi> ſleighting lawful Uſages.</head>
+               <p>THeſe <hi>Corinthians</hi> were further blamed with a ſleighting the <hi>Cuſtoms</hi> of the Church; for the Apoſtle, having in the beginning of this <hi>Chapter,</hi> minded them of the <hi>Decency</hi> of ſome
+<pb n="18" facs="tcp:103429:12"/> particular <hi>Circumſtances</hi> of Worſhip; he at length enforceth their obſervance by an Argu<g ref="char:EOLhyphen"/>ment from <hi>Cuſtom</hi> in the Churches of God, <hi>v.</hi> 17.</p>
+               <p>But perhaps, though this be a <hi>fault,</hi> ſome may think it not always ſo <hi>great</hi> a fault, as to be call<g ref="char:EOLhyphen"/>ed Schiſm; eſpecially when men <hi>keep their Church.</hi>
+               </p>
+               <p>Yet it may not be amiſs to obſerve that <hi>Beza</hi> placeth the <hi>nature</hi> of Schiſm in this very thing; a leaving the Church for the ſake of ſome <hi>ex<g ref="char:EOLhyphen"/>ternal Rites.</hi>
+               </p>
+               <p>And I ſee not how our new Churches can be excuſed in this <hi>point:</hi> For do they not take of<g ref="char:EOLhyphen"/>fence at our <hi>Rites</hi> and Ceremonies? Do they not plead <hi>this</hi> offence, and this <hi>only</hi> or chiefly, for their <hi>Separation?</hi> Though our <hi>Rites</hi> are not only Rites of <hi>Cuſtom,</hi> but of <hi>poſitive Laws too:</hi> Though our Rites are ſuch as the Communion of the <hi>people</hi> is little concerned in: Yea, though they are ſuch alſo, as all former <hi>Non-Conformiſts</hi> ſtiffly contend, none ought to <hi>Separate</hi> from our Churches for; and much leſs to gather them<g ref="char:EOLhyphen"/>ſelves into <hi>new Churches;</hi> as it is at this day, when, you know, you are indulged to <hi>omit</hi> them without <hi>penalty</hi> or <hi>Separation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:103429:12"/>
+               <head>
+                  <hi>The last Charge of Schiſm in</hi> Co<g ref="char:EOLhyphen"/>rinth, <hi>a</hi> dividing at the Commu<g ref="char:EOLhyphen"/>nion, <hi>in the Text.</hi>
+               </head>
+               <p>LAſtly, theſe <hi>Corinthians</hi> were guilty of Schiſm alſo by their <hi>Diviſions</hi> in their <hi>Communions; reproved</hi> in the <hi>Text; explained</hi> in the Verſe be<g ref="char:EOLhyphen"/>fore it; <hi>In eating, every one taketh before other his own Supper;</hi> and <hi>one is Hungry and another is Drunken,</hi> i. e. ſaith <hi>Calvin,</hi> they drank too <hi>freely</hi> and merrily at their <hi>feaſts</hi> joyned with the <hi>Lords Supper;</hi> wherein, alſo, the <hi>Rich</hi> excluded the <hi>Poor,</hi> and <hi>Factiouſly</hi> denied them to Communi<g ref="char:EOLhyphen"/>cate <hi>with them;</hi> and after the <hi>Rich</hi> had done, the <hi>Poor</hi> were ſuffered to eat together, only of what the <hi>Rich</hi> had left: Thus, they <hi>Divided</hi> in their <hi>Love-feaſts,</hi> as moſt conſent; but <hi>Pareus</hi> thinks alſo, in the <hi>Lords-Supper</hi> it ſelf.</p>
+               <p>Thus <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> was broken; and that's <hi>Schiſm:</hi> Thus, ſaith <hi>Grotius,</hi> it happen'd in <hi>their</hi> Times, which is faln out much more in <hi>ours,</hi> that the <hi>thing</hi> inſtituted for the incorporating and <hi>unit<g ref="char:EOLhyphen"/>ing</hi> of Chriſtians, <hi>in vexillum Schiſmatis vertitur;</hi> is made the occaſion of Diviſion and Schiſm.</p>
+               <p>This kind of Schiſm, is too eaſily applicable to our preſent <hi>Separation,</hi> which cannot eſcape <hi>alike,</hi> yea a far worſe <hi>Accuſation:</hi> For do not our <hi>brethren</hi> avoyd Communion with us eſpeci<g ref="char:EOLhyphen"/>ally in the <hi>Euchariſt?</hi> Hath not <hi>this</hi> Communi<g ref="char:EOLhyphen"/>on been the <hi>only</hi> matter of their <hi>Diviſion,</hi> when they ſo long joyned with us in <hi>all</hi> things <hi>elſe?</hi> None can deny it.</p>
+               <pb n="20" facs="tcp:103429:13" rendition="simple:additions"/>
+               <p> But, <hi>their</hi> Schiſm is now commenced much <hi>higher,</hi> by the following <hi>Circumſtances.</hi>
+               </p>
+               <p n="1">1. The <hi>Corinthians</hi> divided only in <hi>one</hi> Ordi<g ref="char:EOLhyphen"/>nance with <hi>partial</hi> Schiſm; our <hi>brethren,</hi> in <hi>all,</hi> with <hi>total</hi> Separation.</p>
+               <p n="2">2. The <hi>Corinthians</hi> held their divided Com<g ref="char:EOLhyphen"/>munions in the <hi>ſame</hi> Publique <hi>Place;</hi> our <hi>brethren</hi> 
+                  <note place="margin">Ver. 18. &amp; 20.</note> leave our <hi>Publique</hi> Churches, and have <hi>Private</hi> Houſes for <hi>Publique</hi> Worſhip.</p>
+               <p n="3">3. Their divided Communions were <hi>ſucceſſive;</hi> and not at the <hi>ſame time;</hi> but <hi>ſome before, ſome after other,</hi> v. 21. but our <hi>brethren</hi> ſet their <hi>new</hi> 
+                  <note place="margin">Verſe 21.</note> 
+                  <hi>Altars</hi> directly againſt <hi>ours</hi> in point of <hi>time;</hi> in plain oppoſition.</p>
+               <p n="4">4. The <hi>Corinthians</hi> communicated with the <hi>ſame Paſtors,</hi> in the ſame <hi>Modes</hi> of Worſhip and Government; yet for dividing <hi>among themſelves</hi> were <hi>Schiſmaticks;</hi> and who can excuſe thoſe that <hi>renounce</hi> their <hi>Paſtors,</hi> and heap up new ones, of another <hi>Ordination,</hi> to ſerve another <hi>Al<g ref="char:EOLhyphen"/>tar,</hi> under another Mode of <hi>Worſhip,</hi> Govern<g ref="char:EOLhyphen"/>ment and Diſcipline?</p>
+               <p>The <hi>Sum</hi> is; the <hi>Corinthians</hi> were <hi>Schiſma<g ref="char:EOLhyphen"/>ticks</hi> for dividing only in <hi>one</hi> point: But our <hi>bre<g ref="char:EOLhyphen"/>thren</hi> divide from us in <hi>all things;</hi> in our <hi>Paſtors, Temples, Aſſemblies, Worſhip</hi> and <hi>Government:</hi> Yea, they have <hi>new</hi> Paſtors, Places, Aſſemblies, and all things elſe, concurring both to <hi>Negative,</hi> and <hi>Poſitive,</hi> and <hi>Total</hi> Separation; and if this be not <hi>Schiſm,</hi> in the <hi>Rankeſt</hi> ſence imaginable, ſay, <hi>what</hi> is.</p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:103429:13"/>
+               <head>
+                  <hi>Of the</hi> Contempt <hi>which falls upon</hi> Church, <hi>as a Publique</hi> Place <hi>of Worſhip, by Schiſm.</hi>
+               </head>
+               <p>YOu have heard the firſt <hi>Evidence,</hi> viz. <hi>Schiſm;</hi> but becauſe your patience would fail me to ſpeak of the Second, viz. <hi>Prophaneneſs</hi> (though doubtleſs we have too much reaſon for that alſo) I ſhall employ the time remaining, in <hi>lamenting</hi> the <hi>Contempt,</hi> which neceſſarily falls upon the Church of God, by <hi>Schiſm</hi> and Sepa<g ref="char:EOLhyphen"/>ration; beſeeching you, at laſt, for <hi>Pitie</hi>'s ſake, to have no hand in it.</p>
+               <p>
+                  <hi>Deſpiſe ye the Church of God?</hi> Whether we un<g ref="char:EOLhyphen"/>derſtand the <hi>Locus</hi> or the <hi>Coetus,</hi> the <hi>Place</hi> or the Aſſembly, ſuch as <hi>Separate</hi> ſhew plainly, that they <hi>deſpiſe the Church of God.</hi>
+               </p>
+               <p>Firſt, they deſpiſe the <hi>Publique Place</hi> of our God's uſual Worſhip; as the <hi>Synogogue</hi> is pro<g ref="char:EOLhyphen"/>perly the <hi>Meeting</hi> of the People, and improper<g ref="char:EOLhyphen"/>ly the <hi>Place</hi> in which they meet; ſo the name <hi>Church,</hi> ſaith <hi>Grotius,</hi> hath <hi>both</hi> Significations; but here, as he conceives, and is plain enough in <note place="margin">
+                     <hi>Vid.</hi> ver. 20. with 22.</note> the <hi>Context,</hi> we are eſpecially to underſtand the <hi>Place:</hi> For ſo <hi>early</hi> it ſeems the Church had <hi>Places</hi> peculiarly devoted to <hi>divine Service;</hi> and <hi>Euſebius</hi> obſerves, it was evidently ſo in <hi>Di<g ref="char:EOLhyphen"/>ocleſians</hi> time.</p>
+               <p>Theſe Churches or <hi>Temples,</hi> were then di<g ref="char:EOLhyphen"/>ſtinguiſht from their <hi>Private</hi> Houſes, by their <hi>pro<g ref="char:EOLhyphen"/>per uſes; theſe</hi> were to <hi>eat</hi> and to <hi>drink in, [Have</hi>
+                  <pb n="22" facs="tcp:103429:14"/> 
+                  <hi>you not houſes to eat and to drink in?]</hi> and for Civil Converſation; but the <hi>Church</hi> for <hi>divine</hi> things; Prayers, Doctrine, Sacraments, the Pub<g ref="char:EOLhyphen"/>lique Exerciſes of Piety and Religious Worſhip; therefore called, as in the Text, the <hi>Churches of God. Deſpiſe you the Church of God?</hi>
+               </p>
+               <p>Not that <hi>divine</hi> Worſhip is to be wholly ſhut out of our <hi>Private</hi> Houſes: Yet it ought to be <hi>ſuch</hi> as agrees with the Nature of them, viz. <hi>Family-Worſhip. Publique</hi> Worſhip in <hi>Private</hi> Houſes, when we may have Publique, hath been ever a <hi>Soleciſm</hi> in Religion: So we muſt alſo <hi>eat</hi> and <hi>drink</hi> in the <hi>Church;</hi> yet, in ſuch wiſe, as a<g ref="char:EOLhyphen"/>grees with the <hi>Place;</hi> not after a common and <hi>carnal</hi> manner, as theſe <hi>Corinthians</hi> did; but in <hi>Chriſtian Communion,</hi> after our Lords <hi>Inſtitution,</hi> as the Apoſtle commands.</p>
+               <p>Now, by <hi>Schiſm,</hi> this Church or Publique <hi>Place</hi> of God's Worſhip was <hi>deſpiſed</hi> among them; thereby, they made it as their own <hi>hou<g ref="char:EOLhyphen"/>ſes;</hi> they gave it nothing of its due <hi>Reverence;</hi> they deſpiſed the <hi>Worſhip</hi> of it, and the <hi>God</hi> of it, by turning it into a <hi>Den of Thieves,</hi> ſtealing from <hi>God</hi> and the <hi>Poor;</hi> and a <hi>Sty of Swine,</hi> by their Senſuality and <hi>Luxury;</hi> a Houſe of Pride and Faction, of Envy and Diviſion; which ought to have been a <hi>Houſe</hi> of <hi>Prayer</hi> and Piety, a Houſe of Purity and Unity, in the <hi>Communion of Saints.</hi>
+               </p>
+               <p>Did <hi>they</hi> thus deſpiſe <hi>God's Houſe,</hi> and do <note place="margin">Applicat.</note> not <hi>we,</hi> much more? <hi>P. Martyr</hi> complains of his Times; now <hi>the Temples lie open all the day long, for walking, news, and all ſort of prophane buſineſs;</hi>
+                  <pb n="23" facs="tcp:103429:14" rendition="simple:additions"/> and minds us of our Saviours <hi>whipping the Buyers and Sellers out of the Temple;</hi> and it cannot but ſeem ſtrange to us, that <hi>ſuch,</hi> eſpecially, as de<g ref="char:EOLhyphen"/>ſpiſe the <hi>Temple</hi> in its <hi>holy</hi> uſes, ſhould yet thus <hi>prophane</hi> it.</p>
+               <p>But, this is not the <hi>Contempt,</hi> I chiefly bewail; for while men forſake this <hi>Publique</hi> Houſe, and build <hi>others</hi> for Divine Service; can they more ſhamefully <hi>deſpiſe</hi> it? While they forſake it, e<g ref="char:EOLhyphen"/>ſpecially upon <hi>ſuch</hi> Grounds, as they imagine ſhould carry away <hi>all others,</hi> as well as them<g ref="char:EOLhyphen"/>ſelves; can they take a more effectual courſe to render it <hi>contemptible?</hi> If after theſe <hi>croſs Ex<g ref="char:EOLhyphen"/>amples,</hi> others ſhould be tempted to do ſo wick<g ref="char:EOLhyphen"/>edly, what would become of our <hi>Temples?</hi>
+               </p>
+               <p>They may <hi>ſtand</hi> a while indeed as forlorn and neglected <hi>Monuments</hi> of our Irreligion and <hi>A<g ref="char:EOLhyphen"/>theiſm;</hi> but, at length, muſt <hi>fall,</hi> and the <hi>Magni<g ref="char:EOLhyphen"/>ficence</hi> of <hi>England</hi> fall with them, to the impa<g ref="char:EOLhyphen"/>rallel'd <hi>reproach</hi> of our Church and <hi>Nation;</hi> they may ſerve a while, for <hi>meaner Offices</hi> than our own Houſes, as ſome of them <hi>lately</hi> did, but too ſoon we may have cauſe to <hi>lament</hi> with the Prophet,</p>
+               <p>
+                  <hi>Lift up thy feet to the perpetual deſolations; even all that the Enemy hath done wickedly in the San<g ref="char:EOLhyphen"/>ctuary: they have defiled by caſting down the Dwelling place of thy Name to the ground; they ſaid in their hearts, let us deſtroy them together; they have burnt up all the Synagogues of God in the Land: O God, how long ſhall the Adverſary re<g ref="char:EOLhyphen"/>proach?</hi> Pſal. 74. 2. to 11.</p>
+               <p>Yea, <hi>it is not an Enemy that reproacheth us; then we could have born it. We took ſweet counſel</hi> 
+                  <note place="margin">Pſa. 55. 12. 14.</note>
+                  <pb n="24" facs="tcp:103429:15" rendition="simple:additions"/> 
+                  <hi>together,</hi> and (lately) <hi>walked to the Houſe of God in Company.</hi>
+               </p>
+               <p>I know you will ſay, that our <hi>brethren</hi> intend no ſuch thing; but this is, plainly, the <hi>intention</hi> of their <hi>Actions,</hi> if not of their <hi>minds,</hi> which ought chiefly to be obſerved, and without which the intention of their <hi>minds</hi> is inſignificant.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Contempt of the</hi> Aſſemblies <hi>by Separation.</hi>
+               </head>
+               <p>SEcondly, ſuppoſe by the Church of God we underſtand the <hi>Coetus</hi> or Aſſembly of Chri<g ref="char:EOLhyphen"/>ſtians; how are theſe <hi>deſpiſed,</hi> while you <hi>treat</hi> them as <hi>unworthy</hi> of your <hi>Company?</hi> while you reject our <hi>Paſtors,</hi> our <hi>Members,</hi> our <hi>Worſhip</hi> and Ordinances, as well as our <hi>Temples?</hi>
+               </p>
+               <p>What can be the <hi>Intention</hi> of your Separati<g ref="char:EOLhyphen"/>on, but to reflect upon us as too too corrupt; and to cenſure us as Aſſemblies of Sinners and <hi>Publicans,</hi> though you heed not who are the <hi>Pha<g ref="char:EOLhyphen"/>riſees;</hi> and plainly to expoſe our <hi>Biſhops,</hi> Paſtors, Government and Worſhip to Publique <hi>Scorn</hi> and higheſt Contempt; and the <hi>Church of England,</hi> and our <hi>Parochial</hi> Congregations, to the cer<g ref="char:EOLhyphen"/>taineſt Method of Reproach and <hi>Ruine;</hi> ſhould others be perſwaded to deal ſo <hi>ſpitefully</hi> with us as your ſelves?</p>
+               <p>I ſay, this way of <hi>Separation,</hi> as it immediate<g ref="char:EOLhyphen"/>ly plucks up our Antient <hi>Land-marks,</hi> and diſ<g ref="char:EOLhyphen"/>ſolves our <hi>Parochial</hi> Conſtitution; ſo, it leads directly to the <hi>tearing</hi> our <hi>Prayer-book</hi> again;
+<pb n="25" facs="tcp:103429:15"/> the trampling, firſt, upon our <hi>Government,</hi> next upon our <hi>Governours;</hi> and, if wiſer men than I am, have any <hi>skill</hi> at gheſſing, a betraying our Church, and the <hi>Reformation</hi> of it to Forraign <hi>Invaſion</hi> and Uſurpation; the barbarous Capti<g ref="char:EOLhyphen"/>vity of ſpiritual <hi>Egypt</hi> and <hi>Sodom;</hi> which God avert.</p>
+               <p>If not, then this muſt be for a <hi>Lamentation:</hi> How doth the <hi>City ſit ſolitary that was full of peo<g ref="char:EOLhyphen"/>ple?</hi> 
+                  <note place="margin">
+                     <hi>I</hi> am. 1.</note> 
+                  <hi>How is ſhe become as a Widow? All her Friends have dealt treacherouſly with her; they are become her Enemies. Judah is gone into Cap<g ref="char:EOLhyphen"/>tivity. She dwelleth among the Heathen. The ways of Sion do mourn, becauſe none come to her ſolemn feaſts; all her Gates are deſolate; her Prieſts ſigh; her Virgins are afflicted, and ſhe is in bitterneſs; her Adverſaries are the chief; her E<g ref="char:EOLhyphen"/>nemies proſper; and from the Daughter of Sion all her beauty is departed.</hi>
+               </p>
+            </div>
+            <div type="application">
+               <head>
+                  <hi>The</hi> Application <hi>of the whole Diſ<g ref="char:EOLhyphen"/>courſe for</hi> Union <hi>and</hi> Parochial <hi>Worſhip.</hi>
+               </head>
+               <p>THus you have heard what Schiſm is, and the <hi>danger</hi> of it to the <hi>Church</hi> of God; and that breach of Union and <hi>Diviſion</hi> of the Parts, threatens the <hi>diſſolution</hi> of the <hi>whole:</hi> Now, what remains, but that if you would avoid the <hi>Miſchief,</hi> you prevent it in the <hi>Cauſe,</hi> which you ſee is Schiſm, <hi>Separation</hi> and gathering Churches.</p>
+               <pb n="26" facs="tcp:103429:16" rendition="simple:additions"/>
+               <p> As you would preſerve our <hi>Church,</hi> you muſt preſerve its <hi>
+                     <g ref="char:V">Ʋ</g>nion;</hi> the <hi>Caſe</hi> admits of no other <hi>Cure;</hi> the Caſe is otherwiſe <hi>deſperate:</hi> Yet, this is a <hi>ſure</hi> Remedy, carrying in it a <hi>continuity of Parts,</hi> which is our <hi>Health.</hi>
+               </p>
+               <p>Now, there is but one way of maintaining this <hi>
+                     <g ref="char:V">Ʋ</g>nion;</hi> and that is <hi>neceſſary,</hi> viz. the pre<g ref="char:EOLhyphen"/>ſerving our <hi>Parochial Conſtitution</hi> and Worſhip; if this be once <hi>diſſolved,</hi> we are loſt.</p>
+               <p>
+                  <hi>Pariſh-bounds</hi> were, at firſt, laid by the <hi>light of Nature,</hi> (for perſons <hi>living together,</hi> ſhould <hi>wor<g ref="char:EOLhyphen"/>ſhip</hi> God together) and the general practice of <hi>Scripture;</hi> where we ſtill find <hi>Cities</hi> and <hi>Church<g ref="char:EOLhyphen"/>es</hi> are Commenſurate: perhaps, among ſo many Inſtances, there may be ſome <hi>few juſt exceptions;</hi> but, generally, the bounds of our <hi>Pariſh-Churches</hi> are convenient enough, our very <hi>Adverſaries</hi> be<g ref="char:EOLhyphen"/>ing Judges.</p>
+               <p>However, where they are <hi>inconvenient,</hi> the <hi>people</hi> cannot be thought fit <hi>Reformers;</hi> popular Experiments about Antient <hi>Foundations</hi> will be ever <hi>hazardous</hi> if not Ruinous. What hand trembles not to touch a <hi>Conſtitution</hi> that hath been found ſo convenient, and ſtood ſo firm for ſo <hi>many Ages?</hi> Yea, a <hi>friend</hi> of their own, of no mean account, affirms, that the <hi>Proteſtant In<g ref="char:EOLhyphen"/>tereſt in</hi> England <hi>depends very much upon the Pie<g ref="char:EOLhyphen"/>ty, Honour and Integrity of our Pariſh-Churches.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>COnclude then; there is no other viſible <hi>re<g ref="char:EOLhyphen"/>medy</hi> againſt the foreſaid Miſchiefs, but our <hi>ordinary attending upon the Worſhip of God in the Temples.</hi>
+               </p>
+               <pb n="27" facs="tcp:103429:16"/>
+               <p> If you regard the Common <hi>Safety</hi> and the Publique <hi>Peace,</hi> or your Private <hi>Intereſt</hi> therein involv'd; if the <hi>Proſperity</hi> of <hi>Sion,</hi> your duty to and care of <hi>Religion;</hi> if the great concerns of <hi>God</hi> and Mens <hi>Souls,</hi> and the <hi>Reformation,</hi> weigh any thing with you: Yea, as you abhor <hi>Schiſm</hi> and Hereſie, <hi>Popery</hi> and Anarchy, A<g ref="char:EOLhyphen"/>theiſm, Confuſion and <hi>perpetual deſolations</hi> in the Church of God, take head of <hi>ſeparating your ſelves;</hi> break not our <hi>Pariſh-bounds;</hi> forſake not, ſleight not, our <hi>Publique</hi> Worſhip and Aſſemblies.</p>
+               <p>Take heed of giving Countenance to <hi>gathe<g ref="char:EOLhyphen"/>red Churches;</hi> ſo far, as to gratifie a <hi>Wanton itch</hi> of hearing their <hi>Teachers:</hi> They are <hi>Schiſmati<g ref="char:EOLhyphen"/>cal</hi> in their <hi>Conſtitution;</hi> and plainly deſign op<g ref="char:EOLhyphen"/>poſition and deſtruction to the <hi>Church of En<g ref="char:EOLhyphen"/>gland;</hi> and he that ſees not this, ſees <hi>Nothing.</hi>
+               </p>
+               <p>Let <hi>Houſes</hi> retain their <hi>proper offices,</hi> and be content with them; but ſee, that you <hi>Reverence the Sanctuary.</hi> O contemn it not, by with<g ref="char:EOLhyphen"/>drawing your ſelves, and Gods <hi>Ark</hi> and Altar from it: What! <hi>Have ye not houſes to eat and to drink in?</hi> Or <hi>deſpiſe ye the Church of God?</hi> Do not dare to do it; 'tis a great <hi>Sin,</hi> and of deſtru<g ref="char:EOLhyphen"/>ctive <hi>Conſequence;</hi> and you have had <hi>Warning;</hi> and, to ſay no more, you have no Aſſurance, that either <hi>God</hi> or <hi>Man</hi> will always <hi>indulge</hi> it, or let it go <hi>unpuniſhed.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="28" facs="tcp:103429:17" rendition="simple:additions"/>
+            <head>Some ſingle Sermons and other Diſcourſes touching the preſent differences in the Church, Printed for <hi>James Collins.</hi>
+            </head>
+            <list>
+               <item>1. CAtholick Charity recommended in a Sermon before the Right Honourable the Lord Mayor of <hi>London,</hi> in order to the abating the Animoſities among Chriſtians that have been occaſioned by differences in Religion, by <hi>Joſ. Glanvile</hi> Rector of <hi>Bath.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: or a ſeaſonable Recommendation and defence of Reaſon in the Aſſairs of Religion; againſt Infide<g ref="char:EOLhyphen"/>lity, Scepticiſm, and Fanaticiſms of all ſorts, by <hi>Joſ. Glanvile</hi> Re<g ref="char:EOLhyphen"/>ctor of <hi>Bath.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>3. The Chriſtians Victory over Death; A Sermon preached at the Funeral of the moſt Honourable <hi>George</hi> Duke of <hi>Albemarle,</hi> by <hi>Seth</hi> Lord Biſhop of <hi>Sarum.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>4. A Mirrour of Chriſtianity, and a Miracle of Charity; or an exact Narrative of the Life and Death of the Lady <hi>Alice</hi> Dutches <hi>Dudley,</hi> by <hi>R. Boreman</hi> DD. Price 6 <hi>d.</hi>
+               </item>
+               <item>5. The General Aſſembly, or the neceſſity of receiving the Communion in our publique Congregations evinced from the Nature of the Church, the Word of God, and Presbyterian Principles; A Sermon by <hi>Francis Fulwood.</hi> DD. Price 6 <hi>d.</hi>
+               </item>
+               <item>6. <hi>Miſerere Cleri;</hi> A Sermon repreſenting the Miſeries of the Clergy, and Aſſigning their true Cauſes in order to Redreſs, by <hi>Edw. Weſtonhall</hi> B. D. Price 6 <hi>d.</hi>
+               </item>
+               <item>7. <hi>
+                     <g ref="char:V">Ʋ</g>rim &amp; Thummim;</hi> or the Clergies Dignity and Duty re<g ref="char:EOLhyphen"/>commended in a Viſitation Sermon, by <hi>Mal. Couvant</hi> B. D. Price 6 <hi>d.</hi>
+               </item>
+            </list>
+            <p>A Diſcouſe of Toleration, in anſwer to a late Book, entituled, A Diſcourſe of the Religion of <hi>England.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>Indulgence not juſtified, being a Continuation of the Diſcourſe of Toleration, in anſwer to the Arguments of a late Book, enti<g ref="char:EOLhyphen"/>tuled, A Peace Offering or Plea for Indulgence; and to another, call'd, The ſecond Diſcourſe of the Religion of <hi>England.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>Toleration not to be abus'd; or a ſerious Queſtion ſoberly debated and reſolved upon Presbyterian Principles, <hi>viz.</hi> whether it be adviſeable, eſpecially for the Presbyterians, either in Conſci<g ref="char:EOLhyphen"/>ence or Prudence, to take advantage from His Majeſties late Decla<g ref="char:EOLhyphen"/>ration, to deny or rebate their Communion with our Parochial Congregations, and to gather themſelves into diſtinct and ſeparate Churches. Price 6 <hi>d.</hi>
+            </p>
+            <p>The Judgment of the Learned and Pious St. <hi>Auguſtin,</hi> con<g ref="char:EOLhyphen"/>cerning Penal Laws againſt Conventicles, and for Unity in Reli<g ref="char:EOLhyphen"/>gion, delivered in his 48 Epiſtle to <hi>Vincentius.</hi>
+            </p>
+            <p>Promiſcuous Ordinations are deſtructive to the honour and ſafety of the Church of <hi>England,</hi> written in a Letter to a Perſon of Quality.</p>
+            <pb facs="tcp:103429:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
